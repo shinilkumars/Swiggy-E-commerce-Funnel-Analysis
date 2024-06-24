@@ -77,7 +77,7 @@ This analysis provided Swiggy with actionable insights to:
 To dive deeper into this analysis, you can explore the following resources:
 
 1. **Excel Workbook**: 
-   - Download the [Swiggy Funnel Analysis Excel File](https://github.com/shinilkumars/Swiggy-E-commerce-Funnel-Analysis/blob/main/Funnel%20Case%20Study%20Data.xlsx)
+   - Download the [Swiggy Funnel Analysis Excel File](https://github.com/shinilkumars/Swiggy-E-commerce-Funnel-Analysis/raw/main/Funnel%20Case%20Study%20Data.xlsx)
    - This workbook contains:
      - All raw data, calculations, pivot tables, and visualizations used in the analysis
      - An interactive dashboard for exploring key metrics and trends
