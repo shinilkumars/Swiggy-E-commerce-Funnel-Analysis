@@ -84,7 +84,6 @@ To dive deeper into this analysis, you can explore the following resources:
    - Navigate through different sheets to see the step-by-step analysis process
 
 2. **Detailed Report**: 
-   - Access the [Comprehensive Analysis Report](link-to-your-report-file)
+   - Access the [Comprehensive Analysis Report](https://github.com/shinilkumars/Swiggy-E-commerce-Funnel-Analysis/raw/main/Swiggy%20Funnel%20Analysis%20Report.docx)
    - This report provides in-depth insights, interpretations of the data, and strategic recommendations
 
-This project showcases the ability to transform raw data into meaningful business insights, combining technical Excel skills with analytical thinking and business acumen.
