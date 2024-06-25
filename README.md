@@ -1,7 +1,41 @@
 # Swiggy E-commerce Funnel Analysis: Growth & Strategy Insights
 
+![Funnel Analysis](https://github.com/shinilkumars/Swiggy-E-commerce-Funnel-Analysis/assets/173347067/556507ec-4cf2-4223-a060-13b084e9c923)
+
 ## Project Overview
-Swiggy, one of the largest food e-commerce platforms in the country, experiences over 1 million daily user transactions. This project involves analyzing Swiggy's funnel data using advanced Excel techniques to optimize marketing strategies, improve conversion rates, and enhance platform performance. By assessing user behavior across the funnel stages (browse, cart, checkout), raw data was transformed into actionable business intelligence. Leveraging analytical thinking and business acumen, this project provides insights to support data-driven decision-making, driving Swiggy's growth. The analysis uncovers key factors influencing user behavior and conversion rates, enabling Swiggy to refine its growth strategy and maintain its competitive edge in the dynamic food e-commerce market.
+Swiggy, one of the largest food e-commerce platforms in the country, experiences over 1 million daily user transactions. This project involves analyzing Swiggy's funnel data using advanced Excel techniques to optimize marketing strategies, improve conversion rates, and enhance platform performance. By assessing user behavior across the funnel stages , raw data was transformed into actionable business intelligence. Leveraging analytical thinking and business acumen, this project provides insights to support data-driven decision-making, driving Swiggy's growth. The analysis uncovers key factors influencing user behavior and conversion rates, enabling Swiggy to refine its growth strategy and maintain its competitive edge in the dynamic food e-commerce market.
+
+## Dataset Overview
+
+The analysis was based on three main data sources:
+
+### 1. Session Details
+
+This sheet contains day-over-day session counts for various stages of the user journey:
+- Listing sessions
+- Menu sessions
+- Cart sessions
+- Payment sessions
+- Order sessions
+
+### 2. Channel-wise Traffic
+
+This sheet provides a breakdown of traffic (listing sessions) at the date level for different channels.
+
+### 3. Supporting Data Metrics
+
+| Metric | Description |
+|--------|-------------|
+| Count of restaurants | Number of operating restaurants for the day |
+| Average Discount | Average discount given to all the transacting customers |
+| Out of stock Items per restaurant | Average out of stock items per restaurant (total out of stock items/total restaurants) |
+| Avg. Packaging charges | On average, the packaging charges paid by customers while placing the order |
+| Avg. Delivery Charges | On average, the delivery charges paid by customers while placing the order |
+| Avg Cost for two | Approximate spent for creating a meal for two |
+| Number of images per restaurant | Count of images listed per restaurant on menu page |
+| Success Rate of payments | Ratio of successful transactions to payment initiated |
+
+These metrics provided valuable context for understanding factors influencing user behavior and conversion rates throughout the funnel.
 
 ## Key Features
 
