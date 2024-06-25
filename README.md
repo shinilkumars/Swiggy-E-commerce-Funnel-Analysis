@@ -1,7 +1,7 @@
 # Swiggy E-commerce Funnel Analysis: Growth & Strategy Insights
 
 ## Project Overview
-This project presents a comprehensive funnel analysis for Swiggy, a leading food e-commerce platform in India. Using advanced Excel techniques, I analyzed million-user transaction data to derive actionable business insights and support data-driven decision-making.
+Swiggy, one of the largest food e-commerce platforms in the country, experiences over 1 million daily user transactions. This project involves analyzing Swiggy's funnel data using advanced Excel techniques to optimize marketing strategies, improve conversion rates, and enhance platform performance. By assessing user behavior across the funnel stages (browse, cart, checkout), raw data was transformed into actionable business intelligence. Leveraging analytical thinking and business acumen, this project provides insights to support data-driven decision-making, driving Swiggy's growth. The analysis uncovers key factors influencing user behavior and conversion rates, enabling Swiggy to refine its growth strategy and maintain its competitive edge in the dynamic food e-commerce market.
 
 ## Key Features
 
