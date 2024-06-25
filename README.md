@@ -2,6 +2,15 @@
 
 ![Funnel Analysis](https://github.com/shinilkumars/Swiggy-E-commerce-Funnel-Analysis/assets/173347067/556507ec-4cf2-4223-a060-13b084e9c923)
 
+## Table of Contents
+ - [Project Overview](#project-overview)
+ - [Dataset Overview](#dataset-overview)
+ - [Key Features](#key-features)
+ - [Key Deliverables](#key-deliverables)
+ - [Business Impact](#business-impact)
+ - [Skills Demonstrated](skills-demonstrated)
+ - [Project Exploration](#project-exploration)
+
 ## Project Overview
 Swiggy, one of the largest food e-commerce platforms in the country, experiences over 1 million daily user transactions. This project involves analyzing Swiggy's funnel data using advanced Excel techniques to optimize marketing strategies, improve conversion rates, and enhance platform performance. By assessing user behavior across the funnel stages , raw data was transformed into actionable business intelligence. Leveraging analytical thinking and business acumen, this project provides insights to support data-driven decision-making, driving Swiggy's growth. The analysis uncovers key factors influencing user behavior and conversion rates, enabling Swiggy to refine its growth strategy and maintain its competitive edge in the dynamic food e-commerce market.
 
@@ -87,7 +96,14 @@ These metrics provided valuable context for understanding factors influencing us
      - Traffic analysis and channel attribution
      - Conversion rate analysis across the funnel stages
      - Hypothesis formulation and validation using supporting data
-
+       
+## Business Impact
+This analysis provided Swiggy with actionable insights to:
+- Optimize their marketing channels
+- Improve conversion rates across the sales funnel
+- Identify and address factors affecting order volumes
+- Enhance overall platform performance
+- Understand the impact of restaurant-related factors on user behavior
 
 ## Skills Demonstrated
 - Advanced Excel proficiency
@@ -96,15 +112,6 @@ These metrics provided valuable context for understanding factors influencing us
 - Problem-solving and hypothesis testing
 - Data visualization and interactive dashboard creation
 - Report writing and presentation of findings
-
-## Business Impact
-This analysis provided Swiggy with actionable insights to:
-- Optimize their marketing channels
-- Improve conversion rates across the sales funnel
-- Identify and address factors affecting order volumes
-- Enhance overall platform performance
-- Understand the impact of restaurant-related factors on user behavior
-- Optimize pricing, discounts, and charges to improve conversion rates
 
 ## Project Exploration
 
